@@ -1,0 +1,26 @@
+=Personas
+
+
+
+|===
+|Name | Hintergrund | Ziel
+
+a| image::Joseph.jpg[]
+
+[quote, Joseph Joestar (20)]
+Ich hoffe das Informatik Studium irgendwie zu überstehen.
+
+| Joseph studiert nur zum Spaß Informatik an der HHU. Er ist im sechsten Semester und sollte eigentlich seine Bacheloarbeit schreiben.
+
+Leider hat er nicht mal die Hälfte der Vorlesungen bestanden.
+
+Für das Studium hegt Joseph wenig Interesse und zu den Volesungen erscheint er auch kaum, geschweige den Übungen.
+
+Dieses Semester versucht er sich zu bessern und hat damit Angefangen, den Stoff langsam nachzuholen. Dafür verbringt er viel Zeit im Ilias, um an die Folien und Übungsblätter zu kommen.
+
+Joseph gefällt das Ilias eigentlich gern, besonders das Forum, weil er oft Fragen zu den Übungsblättern hat. Er findet das System zwar langsam, aber es stört ihn nicht sonderlich, denn er lässt sich gerne etwas mehr Zeit.
+
+Außerhalb der ist Universität ist Joseph auf Veranstaltungen unterwegs und verkleidet sich gern als Cosplay.
+
+| Joseph will in Zukunft, dass Informatik Studium erfolgreich bestehen und dieses Semester macht er den ersten Schritt, in die richtige Richtung.
+|===
