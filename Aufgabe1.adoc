@@ -7,7 +7,7 @@
 
 a| image::Joseph.jpg[]
 
-[quote, Joseph Joestar (20)]
+[quote, Joseph Joestar (22)]
 Ich hoffe das Informatik Studium irgendwie zu überstehen.
 
 | Joseph studiert nur zum Spaß Informatik an der HHU. Er ist im sechsten Semester und sollte eigentlich seine Bacheloarbeit schreiben.
@@ -23,4 +23,25 @@ Joseph gefällt das Ilias eigentlich gern, besonders das Forum, weil er oft Frag
 Außerhalb der ist Universität ist Joseph auf Veranstaltungen unterwegs und verkleidet sich gern als Cosplay.
 
 | Joseph will in Zukunft, dass Informatik Studium erfolgreich bestehen und dieses Semester macht er den ersten Schritt, in die richtige Richtung.
+|===
+
+
+
+|===
+|Name | Hintergrund | Ziel
+
+a| image::Micheal.png[]
+
+[quote, Micheal Santana(24)]
+Meine Korrekturen werden streng benotet.
+
+| Micheal ist Informatik Student an der HHU. In seinem fünften Semester hat er sich entschieden bei den Korrekturen in der Vorlesung "Professionele Softwareentwicklung" auszuhelfen.
+
+Er ist zwar nicht der schlauste, aber durch eiserne Disziplin läuft das Studium akzeptabel.
+
+Bei den Abgaben ärgern ihn besonders die halb fertigen Projekte, weil er so viel Korregieren muss. Darauf folgen meist noch Nachbearbeitung und die sind extrem lästig. Das liegt daran, dass die Nachbearbeitung nicht mehr durch das Abgabesystem geregelt werden können. 
+
+Micheal hofft das in Zukunft das Auas weitere Abgaben akzeptieren kann. 
+
+| Micheal will als Programmierer ganz groß rauskommen und seine eigen Programmiersprache entwickeln.
 |===
