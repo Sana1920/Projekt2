@@ -1,0 +1,43 @@
+= Abgabesystem
+
+== Studierende laden die Aufgabenbeschreibung herunter und bearbeiten die Aufgaben
+
+Wir haben ein Student.
+
+|===
+|Student |
+
+Name
+Geburtsdatum
+ID
+
+|===
+
+Dieser Student hat eine ID und kriegt durch den Organisator eine Aufgabenbeschreibung, die er Downloaden kann.
+Die Aufgabenbeschreibung befindet sich wahrscheinlich auf einer Datenbank.
+Diesen Vorgang nennen wir mal "Output".
+
+== Studierende laden die Lösungen in das Abgabesystem hoch
+
+Student bearbeitet die Aufgabe und lädt Sie wieder hoch.
+Diesen Vorgang nennen wir mal "Input".
+Dabei soll die Abgabe wissen zu welchem Student sie gehört.
+Wir könnten die ID des Studenten mit der Abgabe verknüpfen und dann wird sie in die Datenbank gepackt.
+Vielleich auch noch ein Datum und Uhrzeit ur Abgabe hinzufügen.
+
+== Organisatoren starten manuell die faire Verteilung von Abgaben auf Korrektoren.
+
+Unsere Organisatoren warten bis zur Abgabefrist und starten die manuelle Verteilung. Mit einem Knopfdruck wird die Liste an Abgaben an die Korrektoren verteilt.
+
+== Organisatoren laden Nachzügler hoch, wenn aus gutem Grund die Abgabefrist verpasst wurde
+
+Die Liste der Abgaben sollte dem Organisator angezeigt werden. Sobald er die Abgaben verteilt, leert sich die Liste.
+Alle Nachzügler befinden sich demnach noch in der Liste. Diese können wieder fair verteil werden.
+
+== Korrektoren bewerten die Abgaben
+
+Bewerten die Abgaben und senden eine Text Datei zurück. Natürlich mit der jeweilgen ID. 
+
+== Studierende können Ihre Resultate einsehen
+
+Durch das UI kann der Student, dann seine Bewertung einsehen.
