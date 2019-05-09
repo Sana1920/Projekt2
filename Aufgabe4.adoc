@@ -1,0 +1,11 @@
+= Funktionsumfang
+
+== Chat
+
+Für einfache und schnellere Kommunikation zwischen Studenten.
+Eignet sich für Studenten, die sich über die Geschwindigkeit des Diskussionsforum beschweren.
+
+== LSF
+
+Da sich das Vorlesungsverzeichnis schon im Ilias befindet, könnte man die Vorlesungen auch einfach im Ilias belegen.
+Dann muss man sich auf weniger Seiten anmelden.
